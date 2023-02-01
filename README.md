@@ -1,7 +1,16 @@
 ### Hi I'm Duhan 👋
 
 
-I graduated from Sakarya University Computer Engineering 2022. I completed my internship at Simsoft Computer Technologies. During this internship, I used c++ qt. I worked full-time in Karel company. During this time I had a certain level of knowledge about asp.net, .net core, .net core mvc, entity framework, linq. 
+I graduated from Sakarya University Computer Engineering Department 2022. I did my internship in Simsoft Computer Technologies company as a long term (3 months). 
+
+During my university period, I took courses to improve myself in the field of .net. In the courses I took;
+
+-	I developed an application in layered architecture with c# form.
+-	I developed a site with admin panel with asp.net core mvc.
+-	I attended the .net practicum organized by patika.dev.
+
+In addition, I am developing myself on topics such as .net6, .net7, entity framework core, angular.
+
 
 We have developed a mobile application where you can get up-to-date information about finance and follow live cryptocurrencies, commodities and exchange rates.
 
